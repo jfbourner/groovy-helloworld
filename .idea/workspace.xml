@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea68067c-42fc-4b78-8423-3bbf4ff5181b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XnHpyuuCdjXTU4ovKGzdnHSdNe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="hello_world" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="groovy-helloworld" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/hello_world.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="debug" value="false" />
+      <setting name="alternativeJrePathEnabled" value="true" />
+      <setting name="alternativeJrePath" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Groovy.hello_world" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea68067c-42fc-4b78-8423-3bbf4ff5181b" name="Default Changelist" comment="" />
+      <created>1581675124601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581675124601</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581675939411">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="184" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829@0.23.1440.829" timestamp="1581675939411" />
+    <state x="395" y="114" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1581675818852">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="395" y="114" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.829@0.23.1440.829" timestamp="1581675818852" />
+    <state width="1396" height="214" key="GridCell.Tab.0.bottom" timestamp="1581676111248">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1396" height="214" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1581676111248" />
+    <state width="1396" height="214" key="GridCell.Tab.0.center" timestamp="1581676111247">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1396" height="214" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1581676111247" />
+    <state width="1396" height="214" key="GridCell.Tab.0.left" timestamp="1581676111247">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1396" height="214" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1581676111247" />
+    <state width="1396" height="214" key="GridCell.Tab.0.right" timestamp="1581676111248">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1396" height="214" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1581676111248" />
+    <state x="208" y="23" width="1024" height="829" key="SettingsEditor" timestamp="1581675946882">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="208" y="23" width="1024" height="829" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1581675946882" />
+    <state x="208" y="23" width="1024" height="830" key="SettingsEditor/0.23.1440.830@0.23.1440.830" timestamp="1581675260742" />
+  </component>
+</project>
