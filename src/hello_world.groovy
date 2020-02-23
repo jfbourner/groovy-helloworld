@@ -1,1 +1,1 @@
-println("hello")
+println "hello".substring(0,3)
