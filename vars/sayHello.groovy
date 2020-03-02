@@ -9,6 +9,5 @@ def call(String name = 'human') {
 
 def loadFile() {
     def props = readProperties file: 'target/classes/application.properties'
-    properties.load(propFileContent)
-    return properties;
+    return props;
 }
