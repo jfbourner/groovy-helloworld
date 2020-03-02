@@ -9,7 +9,7 @@ def call(String name = 'human') {
 
 def loadFile() {
 
-    new File('target/classes/application.properties').withReader {
+    new File('${env.WORKSPACE}/target/classes/application.properties').withReader {
         def props = new Properties()
         props.load(it)
         return props;
