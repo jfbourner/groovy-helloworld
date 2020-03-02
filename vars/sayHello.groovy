@@ -9,7 +9,8 @@ def call(String name = 'human') {
 
 def loadFile() {
     def workspace = env.WORKSPACE
+    Properties properties = new Properties()
     def propFileContent = readFile "${workspace}/target/classes/application.properties"
-    def props = readProperties text: propFileContent
-    return props;
+    properties.load(propFileContent)
+    return properties;
 }
