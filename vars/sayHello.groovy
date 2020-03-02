@@ -8,8 +8,8 @@ def call(String name = 'human') {
 }
 
 def loadFile() {
-
-    new File('${env.WORKSPACE}/target/classes/application.properties').withReader {
+    path = ${env.WORKSPACE}
+    new File("${env.WORKSPACE}/target/classes/application.properties").withReader {
         def props = new Properties()
         props.load(it)
         return props;
