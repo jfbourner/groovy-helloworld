@@ -1,8 +1,5 @@
 def call(String name = 'human') {
     echo "Hello, ${name}."
-    def a = "hello";
-    String jack = "jack"
-    println("error")
 
     def prop = loadFile();
     def port = prop.getProperty("server.port")
