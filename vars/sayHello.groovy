@@ -8,7 +8,8 @@ def call(String name = 'human') {
 }
 
 def loadFile() {
-    def propFileContent = libraryResource './target/classes/application.properties'
+    def workspace = env.WORKSPACE
+    def propFileContent = libraryResource "${workspace}/target/classes/application.properties"
     def props = readProperties text: propFileContent
     return props;
 }
